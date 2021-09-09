@@ -1,0 +1,121 @@
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\FireSharp.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Guna.UI2.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.App.config
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csprojAssemblyReference.cache
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_AddItems.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_Welcome.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Dashboard.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FrontPage.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.LoginReg.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.EmpLoginReg.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_PlaceOrder.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_UpdateItems.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_DeleteItems.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_QrGenerate.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_EmpDetails.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\QRCoder.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\MigraDoc.Rendering-gdi.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\PdfSharp-gdi.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\PdfSharp.Charting-gdi.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\RandomSolutions.ArrayToPdf.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\MigraDoc.Rendering-gdi.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\PdfSharp-gdi.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\PdfSharp.Charting-gdi.xml
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\de\PdfSharp-gdi.resources.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_Profile.resources
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Aspose.PDF.dll
+C:\Users\JAYASHREE\source\repos\CafeManagement\CafeManagement\bin\Debug\Aspose.PDF.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\CafeManagement.exe.config
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\CafeManagement.exe
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\CafeManagement.pdb
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Aspose.PDF.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\FireSharp.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\MigraDoc.Rendering-gdi.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Newtonsoft.Json.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\PdfSharp-gdi.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\PdfSharp.Charting-gdi.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\QRCoder.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\RandomSolutions.ArrayToPdf.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\System.Net.Http.Extensions.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\System.Net.Http.Primitives.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Aspose.PDF.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\MigraDoc.Rendering-gdi.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\Newtonsoft.Json.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\PdfSharp-gdi.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\PdfSharp.Charting-gdi.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\System.Net.Http.Extensions.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\System.Net.Http.Primitives.xml
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\de\PdfSharp-gdi.resources.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.csproj.App.config
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_Profile.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_AddItems.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_DeleteItems.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_EmpDetails.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_PlaceOrder.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_QrGenerate.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_UpdateItems.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_Welcome.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.Dashboard.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.EmpLoginReg.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.FrontPage.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.LoginReg.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.exe
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.pdb
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.LoginRegisterEmp.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.AllUserControls.UC_Notifications.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.acceptedOrders.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.pendingOrders.resources
+D:\Akshaya document\CafeManagement_copy\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
